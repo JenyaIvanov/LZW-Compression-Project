@@ -10,4 +10,5 @@ Select a file to compress (any file), compression ratio and click 'Compress'!
 # Decompression
 Select an LZW compressed file (has to be provided via our compressor), and click 'Decompress'!
 
+# Note
 Further description (along with an updated version of the project) coming soon!
